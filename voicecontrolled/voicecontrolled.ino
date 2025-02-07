@@ -5,8 +5,7 @@
 //YEAR-2016
 //   Name                          ID
 //1, Solomon Mehabaw ........     UGR/25389/14
-//2, Bereket Mamo    ........     UGR/
-//3, Dawit Tamene    ........     UGR/
+
 String voice;
 const int relay_1=2;//Connect relay1 to pin 2( pin 2 of arduino to relay 1 using #define relay_1 2)
 const int relay_2=3;//Connect relay2 to pin 3( pin 3 of arduino to relay 2 using #define relay_2 3)
