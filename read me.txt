@@ -1,4 +1,4 @@
--to turn on  first light  write text /in voice say ''turn on first light'' in the app 
+-to turn on  first light  write text /in voice say ''turn on first light'' in the mobile app 
 -to turn off first light  write text /in voice say ''turn off first light'' in the app
 -to turn on second light  write text /in voice say ''turn on second light'' in the app
 -to turn off second light  write text /in voice say ''turn off second  light'' in the app
