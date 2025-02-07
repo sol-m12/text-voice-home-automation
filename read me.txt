@@ -1,0 +1,11 @@
+-to turn on  first light  write text /in voice say ''turn on first light'' in the app 
+-to turn off first light  write text /in voice say ''turn off first light'' in the app
+-to turn on second light  write text /in voice say ''turn on second light'' in the app
+-to turn off second light  write text /in voice say ''turn off second  light'' in the app
+-to turn on fan/motor write text /in voice say ''turn on fan'' in the app
+-to turn off fan  write text /in voice say ''turn off fan'' in the app
+-to turn on all devices write text/in voice say ''turn on all''in the app
+-to turn off all devices write text/in voice say ''turn off all''in the app
+
+
+
